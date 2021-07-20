@@ -6,7 +6,7 @@ I have worked roles in Systems Administration, Software Engineering, and Systems
 I have skills in and, well used, across many different operating systems as well as hardware platforms.  
 Well versed in using client server methodology, network deployments, as well as documenting, and development of the plans to support it.  
 Programming languages; from simple batch, bash, Perl, PowerShell as well as some older. 
-Disciplines in SDLC from previous programming venues as well as many years detailing automation paths. 
+Disciplines in older SDLC , Agile and some modified ASF all from previous programming venues as well as many years detailing automation paths. 
 
 I have extensive automation, Inventory, ledger, and reconciliations experience and strives to improve processes. 
 I focus on a “Do what I can to automate me out of work” approach to most things I get involved with. 
